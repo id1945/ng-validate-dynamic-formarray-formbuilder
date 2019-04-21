@@ -1,5 +1,5 @@
-[Demo Github](https://id1945.github.io/ng-validate-dynamic-formarray-formbuilder) | 
-[Demo Stackblitz](https://stackblitz.com/edit/angular-validate-dynamic-formarray-formbuilder)
+[Demo github](https://id1945.github.io/ng-validate-dynamic-formarray-formbuilder) | 
+[Demo stackblitz](https://stackblitz.com/edit/angular-validate-dynamic-formarray-formbuilder)
 
 ##### …create new project
 ```
