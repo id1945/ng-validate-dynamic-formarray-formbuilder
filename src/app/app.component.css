@@ -1,0 +1,47 @@
+.formArray1,
+.formArray2,
+.formArray3,
+p {
+  margin: 10px;
+}
+
+form {
+  max-width: 600px;
+  margin: auto;
+}
+
+input {
+  margin: 10px;
+}
+
+input[type="button"],
+p {
+  margin-top: 0px;
+}
+
+.formArray1 {
+  border: red solid 1px;
+  background-color: #ff7f7f;
+}
+
+.formArray2 {
+  border: green solid 1px;
+  background-color: #7fbf7f;
+}
+
+.formArray3 {
+  border: blue solid 1px;
+  background-color: #7f7fff;
+}
+
+input[value="Add X"] {
+  background-color: #ff7f7f;
+}
+
+input[value="Add Y"] {
+  background-color: #7fbf7f;
+}
+
+input[value="Add Z"] {
+  background-color: #7f7fff;
+}
